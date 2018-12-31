@@ -11,10 +11,10 @@ I have used ImageAI library and the documentation below to train a custom model 
 https://imageai.readthedocs.io/en/latest/custom/index.html
 ```
 
-I used the following  colab for running my model :
+I used the following colab for running my model :
 
 ```
-https://colab.research.google.com/drive/1KUzb-TQUUTvIpowNO4eeqnKPA4bRCGSk
+CustomObjectDetection.ipynb
 ```
 
 Please note that you need to have the image that you want to predict stored in Google Drive and update the ‘image_path’  variable to the google drive path where image is located.
